@@ -25,6 +25,6 @@ python main.py
 ![Alt text](https://github.com/ashnernovilla/First-Project-08242024/blob/main/Screen%20Shot%202024-08-24.png?raw=true)
 
 ## Project Process Flow
-![Alt text](https://drive.google.com/file/d/1MGXDLxbq7VjAqNBZ5EWDhtX5jCn2Hq9S/view?usp=sharing)
+![Alt text](https://github.com/ashnernovilla/First-Project-08242024/blob/main/Project_Plan.png?raw=true)
 
 
