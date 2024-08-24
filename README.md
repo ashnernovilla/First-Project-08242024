@@ -1,4 +1,4 @@
-# First-Project-08242024
+# Hang Man Project
  This is a test for my first project titled Hang Man
 
 
