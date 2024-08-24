@@ -21,7 +21,10 @@ Assuming you have Python3 installed on a Windows 10 or 11 or on MacOS, run this 
 python main.py
 ```
 
-## Screenshot
+## Project Screenshot
 ![Alt text](https://github.com/ashnernovilla/First-Project-08242024/blob/main/Screen%20Shot%202024-08-24.png?raw=true)
+
+## Project Process Flow
+![Alt text](https://drive.google.com/file/d/1MGXDLxbq7VjAqNBZ5EWDhtX5jCn2Hq9S/view?usp=drive_link)
 
 
