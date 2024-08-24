@@ -22,7 +22,6 @@ python main.py
 ```
 
 ## Screenshot
-![Screen Shot 2024-08-24]
-(https://github.com/ashnernovilla/First-Project-08242024/blob/main/Screen%20Shot%202024-08-24.png?raw=true)
+![Alt text](https://github.com/ashnernovilla/First-Project-08242024/blob/main/Screen%20Shot%202024-08-24.png?raw=true)
 
 
